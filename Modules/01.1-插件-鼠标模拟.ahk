@@ -430,8 +430,14 @@ return
     MouseClick, WheelDown,,, 2
     ;滚轮模拟.下按("f")
 return
-; *[:: 滚轮模拟.左按("[")
-; *]:: 滚轮模拟.右按("]")
+*[:: 
+    MouseClick, WL,,, 2
+    ;滚轮模拟.左按("[")
+return
+*]:: 
+    MouseClick, WR,,, 2
+    ;滚轮模拟.右按("]")
+return
 
 ;*!w::MouseClick, WheelUp,,, 3
 ;*!a::MouseClick, WL,,, 3
