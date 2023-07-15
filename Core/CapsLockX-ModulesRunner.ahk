@@ -20,7 +20,6 @@ GoSub CapsLockX_ModuleSetup_13
 GoSub CapsLockX_ModuleSetup_14
 GoSub CapsLockX_ModuleSetup_15
 GoSub CapsLockX_ModuleSetup_16
-GoSub CapsLockX_ModuleSetup_17
 GoSub CapsLockX_ModuleSetup_18
 GoSub CapsLockX_ModuleSetup_19
 GoSub CapsLockX_ModuleSetup_20
@@ -39,3 +38,4 @@ GoSub CapsLockX_ModuleSetup_32
 GoSub CapsLockX_ModuleSetup_33
 GoSub CapsLockX_ModuleSetup_34
 GoSub CapsLockX_ModuleSetup_35
+GoSub CapsLockX_ModuleSetup_36
