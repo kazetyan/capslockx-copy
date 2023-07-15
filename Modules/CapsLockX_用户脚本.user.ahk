@@ -19,7 +19,3 @@ Return
 #if
 
 ; 这里可以写上你的自定义全局热键
-
-#if WinActive("Keyboard Shortcut ahk_class SunAwtDialog ahk_exe idea64.exe")
-
-!d:: TrayTip, CapsLockX, 在当前窗口按下了Alt+d
